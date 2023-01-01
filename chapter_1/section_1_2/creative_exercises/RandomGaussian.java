@@ -1,4 +1,4 @@
-package section_1_2.exercises_1_2;
+package section_1_2.creative_exercises;
 
 public class RandomGaussian {
     public static void main(String[] args) {

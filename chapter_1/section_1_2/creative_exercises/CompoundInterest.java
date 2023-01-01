@@ -1,6 +1,6 @@
-package section_1_2.exercises_1_2;
+package section_1_2.creative_exercises;
 
-public class Exercise1224 {
+public class CompoundInterest {
     public static void main(String[] args) {
         double P = Double.parseDouble(args[0]);
         double r = Double.parseDouble(args[1]);

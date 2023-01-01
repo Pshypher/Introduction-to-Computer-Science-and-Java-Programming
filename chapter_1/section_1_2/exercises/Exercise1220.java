@@ -1,4 +1,4 @@
-package section_1_2.exercises_1_2;
+package section_1_2.exercises;
 
 public class Exercise1220 {
     private static final int DICE_RANGE = 5;

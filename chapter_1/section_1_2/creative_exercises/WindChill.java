@@ -1,6 +1,6 @@
-package section_1_2.exercises_1_2;
+package section_1_2.creative_exercises;
 
-public class Exercise1225 {
+public class WindChill {
     public static void main(String[] args) {
         double temperature = Double.parseDouble(args[0]);
         double velocity = Double.parseDouble(args[1]);

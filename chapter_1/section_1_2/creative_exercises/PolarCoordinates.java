@@ -1,6 +1,6 @@
-package section_1_2.exercises_1_2;
+package section_1_2.creative_exercises;
 
-public class Exercise1226 {
+public class PolarCoordinates {
 
     public static void main(String[] args) {
         double x = Double.parseDouble(args[0]);
